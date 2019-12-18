@@ -1,5 +1,4 @@
 var player = GetPlayer();
-var one = player.GetVar("var_1");
 var two = player.GetVar("var_2");
 var three = player.GetVar("var_3");
 var four = player.GetVar("var_4");
